@@ -100,6 +100,7 @@ html {
     color: var(--white-color);
     background-color: var(--primary-color);
     border: none;
+    padding-left: 8px;
 }
 
 .btn.btn--disabled {

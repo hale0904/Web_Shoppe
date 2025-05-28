@@ -353,3 +353,25 @@
 .auth-form__socials--label {
     margin: 0 24px;
 }
+
+.auth-form__help {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.auth-form__help-link {
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: #939393;
+}
+
+.auth-form__help-sparate {
+    display: block;
+    height: 20px;
+    margin: -2px 16px;
+    border-left: 1px solid var(--border-color);
+}
+
+.auth-form__help-forgot {
+    color: var(--primary-color);
+}
